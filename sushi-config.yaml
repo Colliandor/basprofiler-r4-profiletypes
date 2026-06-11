@@ -30,6 +30,10 @@ fhirVersion: 4.0.1
 parameters:
   show-inherited-invariants: false
   path-expansion-params: Parameters-exp-params.json
+  i18n-default-lang: en
+# Uncomment the below to "activate" multi language support
+#  i18n-lang:
+#    - sv
 copyrightYear: 2020+
 releaseLabel: release
 

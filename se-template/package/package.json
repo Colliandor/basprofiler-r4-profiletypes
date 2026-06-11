@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "type": "fhir.template",
   "license": "CC0-1.0",
-  "description": "SE FHIR Template",
-  "author": "http://hl7.se",
+  "description": "Swedish FHIR Template",
+  "author": "https://hl7.se",
   "canonical": "http://hl7.se.fhir.template",
-  "base": "fhir.base.template",
+  "base": "fhir2.base.template",
   "dependencies": {
-      "fhir.base.template": "current"
+      "fhir2.base.template": "current"
   }
 }
