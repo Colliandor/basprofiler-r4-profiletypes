@@ -1,7 +1,7 @@
 ### HL7 FHIR base profiles for Sweden
 This implementation guide is published by HL7 Sweden and contains the base profiles and extensions that are widely used in Sweden.
 
-Base profiles as a concept is similar to the [HL7 Europes](https://hl7.eu/fhir/base/introduction.html) approach - as part of a layered approach to profiling, these profiles represent a flexible base defining common concepts without constraints.
+Base profiles as a concept is similar to the [HL7 Europe](https://hl7.eu/fhir/base/introduction.html) approach - as part of a layered approach to profiling, these profiles represent a flexible base defining common concepts without constraints.
 
 The profiles in this IG are rarely used as is, but but are extended and specialized for specific use cases.
 The extensions, on the other hand, can be useful directly.
