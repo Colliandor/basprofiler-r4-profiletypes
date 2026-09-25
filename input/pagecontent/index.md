@@ -1,25 +1,13 @@
-### HL7 FHIR version R4 base profiles for Sweden
-This FHIR implementation guide is published by HL7 Sweden and expresses the base profiles and extensions of FHIR resourses that are widely used in Sweden. The implementations guide is a description of the lowest common denominator in adjustments for applying FHIR in a Swedish context.
+### Base profiles for Sweden
+This implementation guide contains base profiles and extensions to support reuse of concepts that are widely used in Sweden.
 
-The profiles in this IG can be used without a further altering, but in most cases it is probably necessary (and recommended) to make further
-adjustments in accordance with your applicable use case.
-The extensions may be useful without further alteration.
-
-<!---
-Denna implementationsguide publiceras av HL7 Sverige och samlar de grundläggande profileringar och utökningar av FHIR resurser som har bred användning i Sverige. I guiden beskrivs minsta gemensamma nämnare i förändingar som behöver göras på FHIR standarden för tillämpning i ett svenskt sammanhang. Profilerna kan användas utan vidare förändingar men det är antagligen nödvändigt (och rekommenderat) att anpassa dessa genom ytterligare profilering för att bättre passa tänkt användning.
-Utökningarna (extensions) kan däremot ofta vara lämpliga att nyttja utan vidare förädling.
--->
-### The working group
-The development of this implementation guide is carried out by a work group under the management of HL7 Sweden <http://hl7.se>. The group is composed of representatives from regions, state authorities, system vendors and other experts within the FHIR standard, informatics, architecture and terminology.
-
-<!---
-Framtagandet av dessa basprofiler och utökningar genomförs av en arbetsgrupp under HL7 Sverige <http://hl7.se>. Gruppen består av representanter från regioner, myndigheter, systemleverantörer samt andra experter inom FHIR, informatik, arkitektur, terminologi etc.
--->
+### The organisation
+The development of this implementation guide is carried out by working groups under the management of [HL7 Sweden](https://hl7.se>). The groups are composed of representatives from regions, state authorities, system vendors and other experts within the FHIR standard, informatics, architecture and terminology.
 
 ### Getting involved
 The work is coordinated through HL7 Sweden's meetings and working groups. All meetings are fully open to participation and everyone interested in FHIR in Sweden are welcome to join.
 
-For meeting cadence, joining instructions, and other communication channels, find more info at [HL7 Sweden](https://hl7.se). General enquiries can be sent to <info@hl7.se>.
+For meeting cadence, joining instructions and other communication channels, find more info at [HL7 Sweden](https://hl7.se). General enquiries can be sent to <info@hl7.se>.
 
 ### Raising issues
 Issues, errata, and change requests against this implementation guide are tracked on GitHub at <https://github.com/HL7Sweden/basprofiler-r4/issues>. To raise an issue, open a new issue in that tracker; please include the affected resource, the IG version, and a clear description of the problem or proposal.

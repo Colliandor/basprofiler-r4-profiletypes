@@ -33,18 +33,33 @@ parameters:
 copyrightYear: 2020+
 releaseLabel: release
 
+
+pages:
+  index.md:
+  base_profiles.md:
+    title: About base profiles
+  profiles.md:
+  valuesets.md:
+#  artifacts.xml:
+  download.md:
+#  toc.md:
+
+
 # ╭────────────────────────────────────────────menu.xml────────────────────────────────────────────╮
 # │  To use a provided ig-data/input/includes/menu.xml file, delete the "menu" property below.     │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
-  IG Home: index.html
+  Home: index.html
+  About:
+    Base Profiles: base_profiles.html
   # FAQ: faq.html
-  Profiles: 2_profiles.html
-  Value Sets: 3_valuesets.html
+  Profiles: profiles.html
+  Value Sets: valuesets.html
   Artifact Index: artifacts.html
-  Table of Contents: toc.html
   Download: download.html
+  Table of Contents: toc.html
   #Support:
+
 
 # ╭────────────────────────────────────────────index.md────────────────────────────────────────────╮
 # │  To use a provided ig-data/input/[pagecontent | pages]/index.[md | xml], delete the            │
