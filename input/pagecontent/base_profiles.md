@@ -36,3 +36,9 @@ At the moment, the Swedish base profiles do not derive from the European profile
   </figure>
   <p> </p>
 </div>
+
+### Where are the core profiles?
+
+Sweden is historically and legally decentralized when it comes to the provision of healthcare. At present, HL7 Sweden publishes base profiles but hands over the responsibility for more constrained profiles to organizations closer to the implementation.
+
+HL7 affiliates commonly publish base and core profiles, where core profiles build on the base profiles and introduce general restrictions and obligations. As the work done by HL7 Sweden is driven by the needs and participation of the community, core profiles will be considered when there is enough national alignment and interest.
